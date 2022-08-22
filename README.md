@@ -4,7 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Engineer
 -------------------
 
-I've 5+ Years of experience as a Full-Stack developer 💻. I have worked on Data Privacy (GDPR), Banking, and Telecom Domain Projects. Few things about me 👇 🔹 Working as Full-Stack Engineer @Cognizant. 🔹 Ex Senior Associate Consultant at @Infosys 🔹 Ex System Engineer @TCS My specialty is quick learning new Skills and Programming Language, Problem-solving, Responsive design, Website optimization, and Model View Controller(MVC) for organizing code.
+I've 5+ Years of experience as a Full-Stack developer 💻. I have worked on Data Privacy (GDPR), Banking, and Telecom Domain Projects. 
+
+Few things about me 👇  <br />
+🔹 Working as Full-Stack Engineer @Cognizant. <br />
+🔹 Ex Senior Associate Consultant at @Infosys  <br />
+🔹 Ex System Engineer @TCS <br />
+
+My specialty is quick learning new Skills and Programming Language, Problem-solving, Responsive design, Website optimization, and Model View Controller(MVC) for organizing code.
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [jaymanale29@gmail.com](mailto:jaymanale29@gmail.com)
