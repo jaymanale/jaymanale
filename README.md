@@ -7,7 +7,8 @@ Full-Stack Engineer
 I've 5+ Years of experience as a Full-Stack developer 💻. I have worked on Data Privacy (GDPR), Banking, and Telecom Domain Projects. 
 
 Few things about me 👇  <br />
-🔹 Working as Full-Stack Engineer @Cognizant. <br />
+🔹 Senior Software Engineer @Citi <br />
+🔹 Ex Java Developer @Cognizant. <br />
 🔹 Ex Senior Associate Consultant at @Infosys  <br />
 🔹 Ex System Engineer @TCS <br />
 
