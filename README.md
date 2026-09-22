@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Engineer
 -------------------
 
-I've 5+ Years of experience as a Full-Stack developer 💻. I have worked on Data Privacy (GDPR), Banking, and Telecom Domain Projects. 
+I've 9+ Years of experience as a Full-Stack developer 💻. I have worked on Data Privacy (GDPR), Banking, and Telecom Domain Projects. 
 
 Few things about me 👇  <br />
 🔹 Senior Software Engineer @Citi <br />
@@ -16,7 +16,6 @@ My specialty is quick learning new Skills and Programming Language, Problem-solv
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [jaymanale29@gmail.com](mailto:jaymanale29@gmail.com)
-* 🚀  I'm currently working on [FekuJson](http://rapidapi.com/jaymanale29/api/feku-json1)
 
 ### Skills
 
